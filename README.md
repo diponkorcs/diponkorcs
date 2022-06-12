@@ -2,6 +2,7 @@
 <h3 align="center">***Im a Passionate Software Developer from Bangladesh.***</h3>
 
 Im currently completing my Bachelor of Science in Computer Science and Engineering. Along with that, I'm currently working with a Softaware Company as a React.js developer. Im still learning and will also love to explore more within my area of expertise.
+<br/><br/>
 
 
 - 🌱 I’m currently learning : **React.js, Redux.js, Redux Thunk, Context API**
@@ -9,6 +10,7 @@ Im currently completing my Bachelor of Science in Computer Science and Engineeri
 - 📫 How to reach me : **diponkorchandrashil678@gmail.com**
 
 - ⚡ Other Activities : **Gaming, Streaming, Travelling**
+<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
