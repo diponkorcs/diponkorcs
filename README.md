@@ -2,7 +2,7 @@
 <h3 align="center">***Im a Passionate Software Developer from Bangladesh.***</h3>
 
 Im currently completing my Bachelor of Science in Computer Science and Engineering. Along with that, I'm currently working with a Softaware Company as a React.js developer. Im still learning and will also love to explore more within my area of expertise.
-<br/><br/><br/>
+<br/><br/>
 
 
 - 🌱 I’m currently learning : **React.js, Redux.js, Redux Thunk, Context API**
