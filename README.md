@@ -10,7 +10,7 @@ Im currently completing my Bachelor of Science in Computer Science and Engineeri
 - 📫 How to reach me : **diponkorchandrashil678@gmail.com**
 
 - ⚡ Other Activities : **Gaming, Streaming, Travelling**
-<br/>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
