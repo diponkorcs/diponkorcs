@@ -3,7 +3,6 @@
 
 Im currently completing my Bachelor of Science in Computer Science and Engineering. Along with that, I'm currently working with a Softaware Company as a React.js developer. Im still learning and will also love to explore more within my area of expertise.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diponkorcs&label=Profile%20views&color=0e75b6&style=flat" alt="diponkorcs" /> </p>
 
 - 🌱 I’m currently learning : **React.js, Redux.js, Redux Thunk, Context API**
 
@@ -24,3 +23,6 @@ Im currently completing my Bachelor of Science in Computer Science and Engineeri
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diponkorcs&show_icons=true&locale=en&layout=compact" alt="diponkorcs" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diponkorcs&show_icons=true&locale=en" alt="diponkorcs" /></p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=diponkorcs&label=Profile%20views&color=0e75b6&style=flat" alt="diponkorcs" /> </p>
