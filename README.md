@@ -1,6 +1,8 @@
 <h1 align="center">Hola 👋, I'm Diponkor Chandra Shil</h1>
 <h3 align="center">***Im a Passionate Software Developer from Bangladesh.***</h3>
 
+Im currently completing my Bachelor of Science in Computer Science and Engineering. Along with that, I'm currently working with a Softaware Company as a React.js developer. Im still learning Redux.js & Redux Thunk and will also love to explore more within my area of expertise.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diponkorcs&label=Profile%20views&color=0e75b6&style=flat" alt="diponkorcs" /> </p>
 
 - 🌱 I’m currently learning **ReactJS, Redux, Context API**
