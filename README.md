@@ -29,5 +29,8 @@ Stats :
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diponkorcs&show_icons=true&locale=en" alt="diponkorcs" /></p> -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=diponkorcs&show_icons=true&theme=radical)
 
+Streak :
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=diponkorcs&theme=radical)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diponkorcs&label=Profile%20views&color=0e75b6&style=flat" alt="diponkorcs" /> </p>
