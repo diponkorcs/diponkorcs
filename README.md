@@ -22,7 +22,8 @@ Im currently completing my Bachelor of Science in Computer Science and Engineeri
 
 Most Used Languages :
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diponkorcs&show_icons=true&locale=en&layout=compact" alt="diponkorcs" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diponkorcs&show_icons=true&locale=en&layout=compact" alt="diponkorcs" /></p> -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diponkorcs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 Stats :
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diponkorcs&show_icons=true&locale=en" alt="diponkorcs" /></p>
