@@ -4,6 +4,7 @@
 Im currently completing my Bachelor of Science in Computer Science and Engineering. Along with that, I'm currently working with a Softaware Company as a React.js developer. Im still learning and will also love to explore more within my area of expertise.
 <br/><br/>
 
+- 🔭 I’m currently working as a **Front-End Web Developer**
 
 - 🌱 I’m currently learning : **React.js, Redux.js, Redux Thunk, Context API**
 
