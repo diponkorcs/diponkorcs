@@ -21,13 +21,13 @@ Im currently completing my Bachelor of Science in Computer Science and Engineeri
 ![](https://nirzak-streak-stats.vercel.app/?user=diponkorcs&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=diponkorcs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=diponkorcs&theme=dark&no-frame=true&no-bg=false&margin-w=4)
-
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=diponkorcs&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=diponkorcs&theme=dark&no-frame=true&no-bg=false&margin-w=4)
 
 ---
 
