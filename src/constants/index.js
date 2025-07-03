@@ -1047,9 +1047,9 @@ export const socialMedia = [
 export const aboutMe = {
   name: "Diponkor Chandra Shil",
   tagLine:
-    "Software Developer | Full-Stack Developer specialized in ReactJS & NodeJS @ TGIT Bangladesh",
-  tagLine2:
-    "Experienced working in MERN Stack | Currently Learning & Working on a Native Application",
+    "Software Developer | Full-Stack Developer specialized in ReactJS, NextJS, React Native & NodeJS | MERN Stack Developer | Native Application Developer",
+  // tagLine2:
+  //   "Experienced working in MERN Stack | Currently Learning & Working on a Native Application",
   intro:
-    "A diligent web developer from Bangladesh with experiences in different tools and frameworks and programming languages. Currently expanding my area of expertise and learning new frameworks.",
+    "A diligent software developer from Bangladesh with experiences in different tools, frameworks and programming languages. Experienced working in both Website and Mobile Application based software. Currently expanding my area of expertise and learning new frameworks.",
 };
