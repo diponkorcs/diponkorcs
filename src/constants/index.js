@@ -33,6 +33,7 @@ import {
   gaps,
   ned,
   skytouch,
+  brain,
 } from "../assets";
 
 import {
@@ -621,7 +622,7 @@ export const projects = [
     link: "https://youwineducation.org/",
     image: youwin,
     content:
-      "Static website for an educational consultancy firm based in UK. This website was used to showcase their services and portfolio.",
+      "Static website for an educational consultancy firm based in UK. This website is used to showcase their services and portfolio.",
     stack: [
       {
         id: "icon-1",
@@ -805,7 +806,43 @@ export const projects = [
     link: "https://skytoucheducation.co.uk/",
     image: skytouch,
     content:
-      "Static website for an educational consultancy firm based in UK. This website was used to showcase their services and portfolio.",
+      "Static website for an educational consultancy firm based in UK. This website is used to showcase their services, portfolio and accept student applications through a form.",
+    stack: [
+      {
+        id: "icon-1",
+        icon: AiFillHtml5,
+        name: "HTML",
+      },
+      {
+        id: "icon-2",
+        icon: DiCss3,
+        name: "CSS",
+      },
+      {
+        id: "icon-3",
+        icon: SiJavascript,
+        name: "JavaScript",
+      },
+      {
+        id: "icon-4",
+        icon: SiTailwindcss,
+        name: "Tailwind CSS",
+      },
+      {
+        id: "icon-5",
+        icon: SiBootstrap,
+        name: "Bootstrap",
+      },
+    ],
+  },
+  {
+    id: "project-9",
+    title: "Brain Accountings",
+    github: "",
+    link: "https://brainaccountings.com/",
+    image: brain,
+    content:
+      "Static website for a business that provides wide range of accounting and bookkeeping services to individuals and businesses. This website is used to showcase their wide range of different services and portfolio.",
     stack: [
       {
         id: "icon-1",

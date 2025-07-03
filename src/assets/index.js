@@ -53,6 +53,7 @@ import chargeswap from "./chargeswap.png";
 import placeicon from "./place-icon.svg";
 
 import skytouch from "./skytouch.jpg";
+import brain from "./brain.png";
 
 import dp from "./dp.jpg";
 import dp2 from "./dp2.jpg";
@@ -119,4 +120,5 @@ export {
   diplogo,
 
   skytouch,
+  brain,
 };
