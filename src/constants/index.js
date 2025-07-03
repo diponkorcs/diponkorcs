@@ -32,6 +32,7 @@ import {
   aiub,
   gaps,
   ned,
+  skytouch,
 } from "../assets";
 
 import {
@@ -634,6 +635,16 @@ export const projects = [
       },
       {
         id: "icon-3",
+        icon: SiJavascript,
+        name: "JavaScript",
+      },
+      {
+        id: "icon-4",
+        icon: SiTailwindcss,
+        name: "Tailwind CSS",
+      },
+      {
+        id: "icon-5",
         icon: SiBootstrap,
         name: "Bootstrap",
       },
@@ -783,6 +794,43 @@ export const projects = [
         id: "icon-4",
         icon: SiMongodb,
         name: "MongoDB",
+      },
+    ],
+  },
+
+  {
+    id: "project-8",
+    title: "Skytouch Education",
+    github: "",
+    link: "https://skytoucheducation.co.uk/",
+    image: skytouch,
+    content:
+      "Static website for an educational consultancy firm based in UK. This website was used to showcase their services and portfolio.",
+    stack: [
+      {
+        id: "icon-1",
+        icon: AiFillHtml5,
+        name: "HTML",
+      },
+      {
+        id: "icon-2",
+        icon: DiCss3,
+        name: "CSS",
+      },
+      {
+        id: "icon-3",
+        icon: SiJavascript,
+        name: "JavaScript",
+      },
+      {
+        id: "icon-4",
+        icon: SiTailwindcss,
+        name: "Tailwind CSS",
+      },
+      {
+        id: "icon-5",
+        icon: SiBootstrap,
+        name: "Bootstrap",
       },
     ],
   },

@@ -52,6 +52,8 @@ import cdc from "./cdc.png";
 import chargeswap from "./chargeswap.png";
 import placeicon from "./place-icon.svg";
 
+import skytouch from "./skytouch.jpg";
+
 import dp from "./dp.jpg";
 import dp2 from "./dp2.jpg";
 import dp3 from "./dp3.jpg";
@@ -115,4 +117,6 @@ export {
   dp3,
   dp4,
   diplogo,
+
+  skytouch,
 };
