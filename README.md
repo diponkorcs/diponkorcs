@@ -35,7 +35,8 @@ Stats :
 
 Streak :
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=diponkorcs&theme=radical)
+# ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=diponkorcs&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=diponkorcs&theme=radical)](https://git.io/streak-stats)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diponkorcs&label=Profile%20views&color=0e75b6&style=flat" alt="diponkorcs" /> </p>
