@@ -35,7 +35,7 @@ Stats :
 
 Streak :
 
-# ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=diponkorcs&theme=radical)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=diponkorcs&theme=radical)](https://git.io/streak-stats)
 
 
