@@ -31,7 +31,7 @@ Most Used Languages :
 
 Stats :
 
-# ![GitHub stats](https://github-readme-stats.vercel.app/api?username=diponkorcs&show_icons=true&theme=radical)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=diponkorcs)](https://git.io/streak-stats)
 
 Streak :
