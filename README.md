@@ -3,7 +3,7 @@ Github Profile Readme
 <h1 align="center">Hola 👋, I'm Diponkor Chandra Shil</h1>
 <h3 align="center">***A Passionate Software Developer from Bangladesh***</h3>
 
-Im currently completing my Bachelor of Science in Computer Science and Engineering. Along with that, I'm currently working with a Softaware Company as a Front-End Web Developer. Im still learning and will also love to explore more within my area of expertise.
+I have completed my Bachelor of Science in Computer Science and Engineering. I'm currently working in a start-up Softaware Company as a Front-End Software Developer. Im still learning and will also love to explore more outside my area of expertise.
 <br/><br/>
 
 - 🔭 I’m currently working as a **Front-End Web Developer**
